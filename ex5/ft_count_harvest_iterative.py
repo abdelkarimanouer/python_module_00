@@ -4,6 +4,3 @@ def ft_count_harvest_iterative():
     for i in range(days):
         i += 1
         print("Day", i)
-
-
-ft_count_harvest_iterative()
